@@ -1,7 +1,10 @@
-// There are five primitive datatypes in JavaScript. What are they? 
-var nameAsString = "Ian";
+// There are five primitive datatypes in JavaScript. What are they?
+
+var boolean = true;
 var number = 10;
-var condition = true;
-var anotherNumber = 10.55;
-var declaredName; // undefined
-var nothing = null;
+var anotherNumber = 10.234;
+var name = 'Ian';
+
+var student;
+
+var blackHole = null;
